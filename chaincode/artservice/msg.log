@@ -1,0 +1,169 @@
+2017/05/14 14:11:48 Using config file: ../test/fixtures/config/config_test.yaml
+2017/05/14 14:11:48 http://localhost:7054
+2017/05/14 14:11:48 fabric_sdk_go Logging level: info
+[36m14:11:48.591 [SW_BCCSP] DEBU : [0m KeyStore opened at [/tmp/keystore]...done
+[36m14:11:48.591 [BCCSP_FACTORY] DEBU : [0m Initialize BCCSP [SW]
+14:11:48.591 [fabric_sdk_go] INFO : [0m KeyStore path [/tmp/enroll_user] missing [false]: [%!s(<nil>)]
+[36m14:11:48.591 [SW_BCCSP] DEBU : [0m Loading private key [82c2f9f2b5a0a89c51e53dea884bfb7d0a0784a1c0897d6cdd8a697f57289f82] at [/tmp/keystore/82c2f9f2b5a0a89c51e53dea884bfb7d0a0784a1c0897d6cdd8a697f57289f82_sk]...
+14:11:48.619 [fabric_sdk_go] INFO : [0m Constructed Chain instance: &{testchannel true map[] 200 map[] 0xc4201d5800 <nil> 0xc420216880 []}
+14:11:48.628 [fabric_sdk_go] INFO : [0m ***** Creating and Joining channel: testchannel *****
+[36m14:11:48.657 [msp] DEBU : [0m Creating BCCSP-based MSP instance
+[36m14:11:48.657 [msp] DEBU : [0m Setting up MSP instance Org1MSP
+[36m14:11:48.657 [msp] DEBU : [0m Creating identity instance for ID &{Org1MSP IDENTITY}
+[36m14:11:48.658 [msp] DEBU : [0m Creating identity instance for ID &{Org1MSP IDENTITY}
+[36m14:11:48.658 [msp] DEBU : [0m Creating identity instance for ID &{Org1MSP IDENTITY}
+[36m14:11:48.658 [msp] DEBU : [0m Creating BCCSP-based MSP instance
+[36m14:11:48.658 [msp] DEBU : [0m Setting up MSP instance Org2MSP
+[36m14:11:48.658 [msp] DEBU : [0m Creating identity instance for ID &{Org2MSP IDENTITY}
+[36m14:11:48.658 [msp] DEBU : [0m Creating identity instance for ID &{Org2MSP IDENTITY}
+[36m14:11:48.659 [msp] DEBU : [0m Creating identity instance for ID &{Org2MSP IDENTITY}
+[36m14:11:48.659 [msp] DEBU : [0m Setting up the MSP manager (2 msps)
+[36m14:11:48.659 [msp] DEBU : [0m MSP manager setup complete, setup 2 msps
+14:11:50.878 [fabric_sdk_go] INFO : [0m ***** Created and Joined channel: testchannel *****
+******* EventHub connect to peer (localhost:7053) *******
+InstallAndInstantiateArtChainCC ing ...
+InstallAndInstantiateArtChainCC succ!
+InstallAndInstantiateAppraisalCC ing ...
+InstallAndInstantiateAppraisalCC succ!
+InstallAndInstantiateSearchCC ing ...
+InstallAndInstantiateSearchCC succ!
+/download/file/
+file
+/download/file/
+file
+[0xc4203795a0]
+/download/file/
+file
+[0xc4204340e0]
+[0xc420434c80]
+[0xc4203820a0]
+/download/file/
+file
+/download/file/h7.jpg
+h7.jpg
+/download/file/
+file
+/download/file/h7.jpg
+h7.jpg
+[0xc420477a60]
+/download/file/
+file
+/download/file/
+file
+0
+/download/file/
+file
+/download/file/
+file
+7
+[0xc4209e3f60]
+no multipart boundary param in Content-Type
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+[0xc420a42a00]
+[0xc420a1a6c0]
+[0xc4209e29a0]
+/download/file/
+file
+/download/file/e1.jpg
+e1.jpg
+/download/file/
+file
+/download/file/e1.jpg
+e1.jpg
+/download/file/law2.pdf
+law2.pdf
+/download/file/
+file
+/download/file/e1.jpg
+e1.jpg
+/download/file/
+file
+7
+/download/file/h7.jpg
+h7.jpg
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/e1.jpg
+e1.jpg
+[0xc4205c09a0]
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/e1.jpg
+e1.jpg
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+/download/file/
+file
+7
+/download/file/
+file
+[0xc42271c080]
+[0xc420a43b40]
+[0xc4209e23e0]
+/download/file/
+file
+7
+/download/file/
+file
+[0xc42096ab60]
+/download/file/
+file
+[0xc420389b80]
+[0xc420379ee0]
+/download/file/
+file
+/download/file/
+file
+/download/file/h7.jpg
+h7.jpg
+[0xc4209e3020]
+[0xc4209e2ac0]
+[0xc420a1a1e0]
+/download/file/
+file
+[0xc42039a720]
+/download/file/
+file
+7
+/download/file/
+file
+/download/file/
+file
+7
+/download/file/
+file

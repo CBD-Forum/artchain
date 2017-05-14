@@ -1,0 +1,19 @@
+
+> vuec@1.0.0 dev /home/fabric/gopath/src/github.com/hyperledger/fabric-sdk-go/web
+> node build/dev-server.js
+
+(node:19723) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+(node:19723) DeprecationWarning: loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+ DONE  Compiled successfully in 6591ms10:36:46 AM
+
+> Listening at http://localhost:8080
+
+ WAIT  Compiling...1:42:35 PM
+
+ DONE  Compiled successfully in 1024ms1:42:36 PM
+
+ WAIT  Compiling...3:08:06 PM
+
+ DONE  Compiled successfully in 800ms3:08:07 PM
+
